@@ -3,13 +3,13 @@
 
 👨‍💻 Software developer - Backend Engineer mostly (Kotlin 💖 Typescript)
 
+🏢 DevRel Engineer at Criteo 
+
 🎙️ Talk a lot. You can find me at [local meetups|conferences](https://www.kinisoftware.com/cronologia-de-un-culo-inquieto/)
 
 🗣️ [AlexaSkill](http://bit.ly/angel-martin-skill) [@angelmartin_nc](twitter.com/angelmartin_nc)
 
-🏢 Telefonica 
-
-🏆 [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/joaquin-engelmo) & [AWS Community Builder](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/)
+🏆 [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/joaquin-engelmo)
 
 📓 [Blog](https://kinisoftware.com)
 
